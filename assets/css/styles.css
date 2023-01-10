@@ -23,6 +23,7 @@ h1, h2 {
 #logo {
     float: left;
     font-size: 280%;
+    margin-left: 30px;
 }
 
 #menu {
@@ -103,5 +104,7 @@ animation-fill-mode: forwards;
     bottom: 30px;
     right: 150px;
 
-    position: absolute;
+   position: absolute;
 }
+
+#club-ethos 
